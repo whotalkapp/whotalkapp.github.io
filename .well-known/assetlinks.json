@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.whotalk.app",
+      "sha256_cert_fingerprints": [
+        "FB:3B:D5:76:F0:18:D4:94:50:C8:C0:44:9E:52:E4:56:BF:09:EB:A4:55:F6:50:24:F2:20:CE:7F:A8:C9:0D:37"
+      ]
+    }
+  }
+]
